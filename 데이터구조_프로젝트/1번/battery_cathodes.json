@@ -1,0 +1,906 @@
+{
+  "LCO": [
+    {
+      "material_id": "mp-10000",
+      "formula": "LiCoO2",
+      "density": 5.38,
+      "band_gap": 3.59,
+      "formation_energy_per_atom": -1.587,
+      "volume": 56.4
+    },
+    {
+      "material_id": "mp-10004",
+      "formula": "LiNi0.8Co0.15Al0.05O2",
+      "density": 3.5,
+      "band_gap": 1.24,
+      "formation_energy_per_atom": -2.802,
+      "volume": 140.9
+    },
+    {
+      "material_id": "mp-10008",
+      "formula": "LiCoPO4",
+      "density": 3.01,
+      "band_gap": 3.5,
+      "formation_energy_per_atom": -1.683,
+      "volume": 141.8
+    },
+    {
+      "material_id": "mp-10018",
+      "formula": "LiCoO2_1",
+      "density": 4.09,
+      "band_gap": 4.48,
+      "formation_energy_per_atom": -2.946,
+      "volume": 171.1
+    },
+    {
+      "material_id": "mp-10022",
+      "formula": "LiNi0.8Co0.15Al0.05O2_1",
+      "density": 5.01,
+      "band_gap": 0.59,
+      "formation_energy_per_atom": -3.033,
+      "volume": 137.2
+    },
+    {
+      "material_id": "mp-10026",
+      "formula": "LiCoPO4_1",
+      "density": 4.29,
+      "band_gap": 3.7,
+      "formation_energy_per_atom": -0.581,
+      "volume": 92.2
+    },
+    {
+      "material_id": "mp-10036",
+      "formula": "LiCoO2_2",
+      "density": 5.46,
+      "band_gap": 0.82,
+      "formation_energy_per_atom": -2.543,
+      "volume": 65.6
+    },
+    {
+      "material_id": "mp-10040",
+      "formula": "LiNi0.8Co0.15Al0.05O2_2",
+      "density": 2.95,
+      "band_gap": 2.12,
+      "formation_energy_per_atom": -2.248,
+      "volume": 169.9
+    },
+    {
+      "material_id": "mp-10044",
+      "formula": "LiCoPO4_2",
+      "density": 3.32,
+      "band_gap": 1.06,
+      "formation_energy_per_atom": -2.972,
+      "volume": 165.6
+    },
+    {
+      "material_id": "mp-10054",
+      "formula": "LiCoO2_3",
+      "density": 4.92,
+      "band_gap": 2.63,
+      "formation_energy_per_atom": -1.805,
+      "volume": 165.6
+    },
+    {
+      "material_id": "mp-10058",
+      "formula": "LiNi0.8Co0.15Al0.05O2_3",
+      "density": 4.21,
+      "band_gap": 1.06,
+      "formation_energy_per_atom": -1.451,
+      "volume": 107.2
+    },
+    {
+      "material_id": "mp-10062",
+      "formula": "LiCoPO4_3",
+      "density": 2.51,
+      "band_gap": 0.48,
+      "formation_energy_per_atom": -3.503,
+      "volume": 62.8
+    },
+    {
+      "material_id": "mp-10072",
+      "formula": "LiCoO2_4",
+      "density": 2.6,
+      "band_gap": 3.8,
+      "formation_energy_per_atom": -1.297,
+      "volume": 181.5
+    },
+    {
+      "material_id": "mp-10076",
+      "formula": "LiNi0.8Co0.15Al0.05O2_4",
+      "density": 2.63,
+      "band_gap": 3.84,
+      "formation_energy_per_atom": -2.974,
+      "volume": 106.3
+    }
+  ],
+  "NCM": [
+    {
+      "material_id": "mp-10005",
+      "formula": "LiNi0.5Co0.2Mn0.3O2",
+      "density": 4.02,
+      "band_gap": 2.29,
+      "formation_energy_per_atom": -1.73,
+      "volume": 138.7
+    },
+    {
+      "material_id": "mp-10010",
+      "formula": "LiNi0.5Mn1.5O4",
+      "density": 3.18,
+      "band_gap": 2.98,
+      "formation_energy_per_atom": -0.361,
+      "volume": 61.8
+    },
+    {
+      "material_id": "mp-10012",
+      "formula": "Li(NiMnCo)O2",
+      "density": 5.21,
+      "band_gap": 2.99,
+      "formation_energy_per_atom": -3.015,
+      "volume": 88.3
+    },
+    {
+      "material_id": "mp-10023",
+      "formula": "LiNi0.5Co0.2Mn0.3O2_1",
+      "density": 5.17,
+      "band_gap": 3.27,
+      "formation_energy_per_atom": -3.248,
+      "volume": 156.8
+    },
+    {
+      "material_id": "mp-10028",
+      "formula": "LiNi0.5Mn1.5O4_1",
+      "density": 3.0,
+      "band_gap": 2.03,
+      "formation_energy_per_atom": 0.233,
+      "volume": 99.3
+    },
+    {
+      "material_id": "mp-10030",
+      "formula": "Li(NiMnCo)O2_1",
+      "density": 5.01,
+      "band_gap": 1.22,
+      "formation_energy_per_atom": 0.206,
+      "volume": 140.8
+    },
+    {
+      "material_id": "mp-10041",
+      "formula": "LiNi0.5Co0.2Mn0.3O2_2",
+      "density": 3.96,
+      "band_gap": 4.3,
+      "formation_energy_per_atom": -2.876,
+      "volume": 146.6
+    },
+    {
+      "material_id": "mp-10046",
+      "formula": "LiNi0.5Mn1.5O4_2",
+      "density": 4.61,
+      "band_gap": 1.45,
+      "formation_energy_per_atom": -2.073,
+      "volume": 171.2
+    },
+    {
+      "material_id": "mp-10048",
+      "formula": "Li(NiMnCo)O2_2",
+      "density": 3.5,
+      "band_gap": 1.11,
+      "formation_energy_per_atom": -2.282,
+      "volume": 186.2
+    },
+    {
+      "material_id": "mp-10059",
+      "formula": "LiNi0.5Co0.2Mn0.3O2_3",
+      "density": 4.85,
+      "band_gap": 1.15,
+      "formation_energy_per_atom": -3.879,
+      "volume": 144.8
+    },
+    {
+      "material_id": "mp-10064",
+      "formula": "LiNi0.5Mn1.5O4_3",
+      "density": 3.03,
+      "band_gap": 1.74,
+      "formation_energy_per_atom": 0.259,
+      "volume": 191.4
+    },
+    {
+      "material_id": "mp-10066",
+      "formula": "Li(NiMnCo)O2_3",
+      "density": 2.74,
+      "band_gap": 0.94,
+      "formation_energy_per_atom": -0.818,
+      "volume": 129.2
+    },
+    {
+      "material_id": "mp-10077",
+      "formula": "LiNi0.5Co0.2Mn0.3O2_4",
+      "density": 3.04,
+      "band_gap": 3.48,
+      "formation_energy_per_atom": -3.782,
+      "volume": 107.5
+    }
+  ],
+  "LFP": [
+    {
+      "material_id": "mp-10006",
+      "formula": "LiFePO4",
+      "density": 3.23,
+      "band_gap": 3.97,
+      "formation_energy_per_atom": -0.72,
+      "volume": 180.1
+    },
+    {
+      "material_id": "mp-10024",
+      "formula": "LiFePO4_1",
+      "density": 3.34,
+      "band_gap": 2.82,
+      "formation_energy_per_atom": 0.373,
+      "volume": 95.7
+    },
+    {
+      "material_id": "mp-10042",
+      "formula": "LiFePO4_2",
+      "density": 2.65,
+      "band_gap": 3.78,
+      "formation_energy_per_atom": 0.167,
+      "volume": 125.1
+    },
+    {
+      "material_id": "mp-10060",
+      "formula": "LiFePO4_3",
+      "density": 5.33,
+      "band_gap": 2.67,
+      "formation_energy_per_atom": -0.939,
+      "volume": 94.5
+    },
+    {
+      "material_id": "mp-10078",
+      "formula": "LiFePO4_4",
+      "density": 4.63,
+      "band_gap": 2.8,
+      "formation_energy_per_atom": -1.915,
+      "volume": 164.7
+    }
+  ],
+  "General": [
+    {
+      "material_id": "mp-10000",
+      "formula": "LiCoO2",
+      "density": 5.38,
+      "band_gap": 3.59,
+      "formation_energy_per_atom": -1.587,
+      "volume": 56.4
+    },
+    {
+      "material_id": "mp-10001",
+      "formula": "LiNiO2",
+      "density": 5.03,
+      "band_gap": 3.27,
+      "formation_energy_per_atom": -0.553,
+      "volume": 54.8
+    },
+    {
+      "material_id": "mp-10002",
+      "formula": "LiMnO2",
+      "density": 3.02,
+      "band_gap": 2.96,
+      "formation_energy_per_atom": -2.027,
+      "volume": 172.8
+    },
+    {
+      "material_id": "mp-10003",
+      "formula": "Li2MnO3",
+      "density": 3.26,
+      "band_gap": 1.43,
+      "formation_energy_per_atom": -0.125,
+      "volume": 102.9
+    },
+    {
+      "material_id": "mp-10004",
+      "formula": "LiNi0.8Co0.15Al0.05O2",
+      "density": 3.5,
+      "band_gap": 1.24,
+      "formation_energy_per_atom": -2.802,
+      "volume": 140.9
+    },
+    {
+      "material_id": "mp-10005",
+      "formula": "LiNi0.5Co0.2Mn0.3O2",
+      "density": 4.02,
+      "band_gap": 2.29,
+      "formation_energy_per_atom": -1.73,
+      "volume": 138.7
+    },
+    {
+      "material_id": "mp-10006",
+      "formula": "LiFePO4",
+      "density": 3.23,
+      "band_gap": 3.97,
+      "formation_energy_per_atom": -0.72,
+      "volume": 180.1
+    },
+    {
+      "material_id": "mp-10007",
+      "formula": "LiMnPO4",
+      "density": 4.44,
+      "band_gap": 3.83,
+      "formation_energy_per_atom": -0.503,
+      "volume": 155.1
+    },
+    {
+      "material_id": "mp-10008",
+      "formula": "LiCoPO4",
+      "density": 3.01,
+      "band_gap": 3.5,
+      "formation_energy_per_atom": -1.683,
+      "volume": 141.8
+    },
+    {
+      "material_id": "mp-10009",
+      "formula": "LiMn2O4",
+      "density": 2.83,
+      "band_gap": 3.46,
+      "formation_energy_per_atom": -0.271,
+      "volume": 193.4
+    },
+    {
+      "material_id": "mp-10010",
+      "formula": "LiNi0.5Mn1.5O4",
+      "density": 3.18,
+      "band_gap": 2.98,
+      "formation_energy_per_atom": -0.361,
+      "volume": 61.8
+    },
+    {
+      "material_id": "mp-10011",
+      "formula": "LiMnO2",
+      "density": 3.32,
+      "band_gap": 3.93,
+      "formation_energy_per_atom": -2.822,
+      "volume": 126.5
+    },
+    {
+      "material_id": "mp-10012",
+      "formula": "Li(NiMnCo)O2",
+      "density": 5.21,
+      "band_gap": 2.99,
+      "formation_energy_per_atom": -3.015,
+      "volume": 88.3
+    },
+    {
+      "material_id": "mp-10013",
+      "formula": "LiVO2",
+      "density": 4.32,
+      "band_gap": 2.78,
+      "formation_energy_per_atom": -2.284,
+      "volume": 103.3
+    },
+    {
+      "material_id": "mp-10014",
+      "formula": "LiTiO2",
+      "density": 5.39,
+      "band_gap": 2.34,
+      "formation_energy_per_atom": -3.441,
+      "volume": 132.2
+    },
+    {
+      "material_id": "mp-10015",
+      "formula": "LiNbO3",
+      "density": 3.17,
+      "band_gap": 2.11,
+      "formation_energy_per_atom": -3.527,
+      "volume": 117.2
+    },
+    {
+      "material_id": "mp-10016",
+      "formula": "LiNiPO4",
+      "density": 4.27,
+      "band_gap": 4.06,
+      "formation_energy_per_atom": -2.493,
+      "volume": 172.3
+    },
+    {
+      "material_id": "mp-10017",
+      "formula": "LiFeO2",
+      "density": 4.89,
+      "band_gap": 1.25,
+      "formation_energy_per_atom": -0.379,
+      "volume": 129.2
+    },
+    {
+      "material_id": "mp-10018",
+      "formula": "LiCoO2_1",
+      "density": 4.09,
+      "band_gap": 4.48,
+      "formation_energy_per_atom": -2.946,
+      "volume": 171.1
+    },
+    {
+      "material_id": "mp-10019",
+      "formula": "LiNiO2_1",
+      "density": 4.12,
+      "band_gap": 1.44,
+      "formation_energy_per_atom": -1.035,
+      "volume": 68.8
+    },
+    {
+      "material_id": "mp-10020",
+      "formula": "LiMnO2_1",
+      "density": 4.08,
+      "band_gap": 2.1,
+      "formation_energy_per_atom": 0.482,
+      "volume": 137.7
+    },
+    {
+      "material_id": "mp-10021",
+      "formula": "Li2MnO3_1",
+      "density": 5.25,
+      "band_gap": 0.24,
+      "formation_energy_per_atom": -0.622,
+      "volume": 51.9
+    },
+    {
+      "material_id": "mp-10022",
+      "formula": "LiNi0.8Co0.15Al0.05O2_1",
+      "density": 5.01,
+      "band_gap": 0.59,
+      "formation_energy_per_atom": -3.033,
+      "volume": 137.2
+    },
+    {
+      "material_id": "mp-10023",
+      "formula": "LiNi0.5Co0.2Mn0.3O2_1",
+      "density": 5.17,
+      "band_gap": 3.27,
+      "formation_energy_per_atom": -3.248,
+      "volume": 156.8
+    },
+    {
+      "material_id": "mp-10024",
+      "formula": "LiFePO4_1",
+      "density": 3.34,
+      "band_gap": 2.82,
+      "formation_energy_per_atom": 0.373,
+      "volume": 95.7
+    },
+    {
+      "material_id": "mp-10025",
+      "formula": "LiMnPO4_1",
+      "density": 2.88,
+      "band_gap": 4.36,
+      "formation_energy_per_atom": -2.313,
+      "volume": 166.6
+    },
+    {
+      "material_id": "mp-10026",
+      "formula": "LiCoPO4_1",
+      "density": 4.29,
+      "band_gap": 3.7,
+      "formation_energy_per_atom": -0.581,
+      "volume": 92.2
+    },
+    {
+      "material_id": "mp-10027",
+      "formula": "LiMn2O4_1",
+      "density": 3.6,
+      "band_gap": 2.79,
+      "formation_energy_per_atom": -2.117,
+      "volume": 143.9
+    },
+    {
+      "material_id": "mp-10028",
+      "formula": "LiNi0.5Mn1.5O4_1",
+      "density": 3.0,
+      "band_gap": 2.03,
+      "formation_energy_per_atom": 0.233,
+      "volume": 99.3
+    },
+    {
+      "material_id": "mp-10029",
+      "formula": "LiMnO2_1",
+      "density": 3.2,
+      "band_gap": 0.3,
+      "formation_energy_per_atom": -2.866,
+      "volume": 152.1
+    },
+    {
+      "material_id": "mp-10030",
+      "formula": "Li(NiMnCo)O2_1",
+      "density": 5.01,
+      "band_gap": 1.22,
+      "formation_energy_per_atom": 0.206,
+      "volume": 140.8
+    },
+    {
+      "material_id": "mp-10031",
+      "formula": "LiVO2_1",
+      "density": 3.91,
+      "band_gap": 1.59,
+      "formation_energy_per_atom": -3.63,
+      "volume": 101.2
+    },
+    {
+      "material_id": "mp-10032",
+      "formula": "LiTiO2_1",
+      "density": 2.9,
+      "band_gap": 2.87,
+      "formation_energy_per_atom": -1.775,
+      "volume": 194.0
+    },
+    {
+      "material_id": "mp-10033",
+      "formula": "LiNbO3_1",
+      "density": 3.58,
+      "band_gap": 4.29,
+      "formation_energy_per_atom": -0.5,
+      "volume": 76.3
+    },
+    {
+      "material_id": "mp-10034",
+      "formula": "LiNiPO4_1",
+      "density": 2.67,
+      "band_gap": 3.3,
+      "formation_energy_per_atom": -1.443,
+      "volume": 58.6
+    },
+    {
+      "material_id": "mp-10035",
+      "formula": "LiFeO2_1",
+      "density": 3.21,
+      "band_gap": 0.7,
+      "formation_energy_per_atom": -2.135,
+      "volume": 53.1
+    },
+    {
+      "material_id": "mp-10036",
+      "formula": "LiCoO2_2",
+      "density": 5.46,
+      "band_gap": 0.82,
+      "formation_energy_per_atom": -2.543,
+      "volume": 65.6
+    },
+    {
+      "material_id": "mp-10037",
+      "formula": "LiNiO2_2",
+      "density": 4.41,
+      "band_gap": 4.13,
+      "formation_energy_per_atom": -3.267,
+      "volume": 160.2
+    },
+    {
+      "material_id": "mp-10038",
+      "formula": "LiMnO2_2",
+      "density": 3.04,
+      "band_gap": 1.82,
+      "formation_energy_per_atom": -2.154,
+      "volume": 50.5
+    },
+    {
+      "material_id": "mp-10039",
+      "formula": "Li2MnO3_2",
+      "density": 4.79,
+      "band_gap": 1.21,
+      "formation_energy_per_atom": -1.866,
+      "volume": 69.9
+    },
+    {
+      "material_id": "mp-10040",
+      "formula": "LiNi0.8Co0.15Al0.05O2_2",
+      "density": 2.95,
+      "band_gap": 2.12,
+      "formation_energy_per_atom": -2.248,
+      "volume": 169.9
+    },
+    {
+      "material_id": "mp-10041",
+      "formula": "LiNi0.5Co0.2Mn0.3O2_2",
+      "density": 3.96,
+      "band_gap": 4.3,
+      "formation_energy_per_atom": -2.876,
+      "volume": 146.6
+    },
+    {
+      "material_id": "mp-10042",
+      "formula": "LiFePO4_2",
+      "density": 2.65,
+      "band_gap": 3.78,
+      "formation_energy_per_atom": 0.167,
+      "volume": 125.1
+    },
+    {
+      "material_id": "mp-10043",
+      "formula": "LiMnPO4_2",
+      "density": 2.82,
+      "band_gap": 0.22,
+      "formation_energy_per_atom": -2.223,
+      "volume": 69.2
+    },
+    {
+      "material_id": "mp-10044",
+      "formula": "LiCoPO4_2",
+      "density": 3.32,
+      "band_gap": 1.06,
+      "formation_energy_per_atom": -2.972,
+      "volume": 165.6
+    },
+    {
+      "material_id": "mp-10045",
+      "formula": "LiMn2O4_2",
+      "density": 4.39,
+      "band_gap": 3.8,
+      "formation_energy_per_atom": -2.947,
+      "volume": 188.8
+    },
+    {
+      "material_id": "mp-10046",
+      "formula": "LiNi0.5Mn1.5O4_2",
+      "density": 4.61,
+      "band_gap": 1.45,
+      "formation_energy_per_atom": -2.073,
+      "volume": 171.2
+    },
+    {
+      "material_id": "mp-10047",
+      "formula": "LiMnO2_2",
+      "density": 3.35,
+      "band_gap": 1.43,
+      "formation_energy_per_atom": -2.541,
+      "volume": 111.1
+    },
+    {
+      "material_id": "mp-10048",
+      "formula": "Li(NiMnCo)O2_2",
+      "density": 3.5,
+      "band_gap": 1.11,
+      "formation_energy_per_atom": -2.282,
+      "volume": 186.2
+    },
+    {
+      "material_id": "mp-10049",
+      "formula": "LiVO2_2",
+      "density": 3.29,
+      "band_gap": 3.6,
+      "formation_energy_per_atom": -3.363,
+      "volume": 94.0
+    },
+    {
+      "material_id": "mp-10050",
+      "formula": "LiTiO2_2",
+      "density": 4.44,
+      "band_gap": 1.72,
+      "formation_energy_per_atom": -0.093,
+      "volume": 113.0
+    },
+    {
+      "material_id": "mp-10051",
+      "formula": "LiNbO3_2",
+      "density": 3.78,
+      "band_gap": 0.66,
+      "formation_energy_per_atom": -3.32,
+      "volume": 192.2
+    },
+    {
+      "material_id": "mp-10052",
+      "formula": "LiNiPO4_2",
+      "density": 4.87,
+      "band_gap": 1.1,
+      "formation_energy_per_atom": -3.897,
+      "volume": 51.8
+    },
+    {
+      "material_id": "mp-10053",
+      "formula": "LiFeO2_2",
+      "density": 3.92,
+      "band_gap": 0.56,
+      "formation_energy_per_atom": -2.745,
+      "volume": 160.3
+    },
+    {
+      "material_id": "mp-10054",
+      "formula": "LiCoO2_3",
+      "density": 4.92,
+      "band_gap": 2.63,
+      "formation_energy_per_atom": -1.805,
+      "volume": 165.6
+    },
+    {
+      "material_id": "mp-10055",
+      "formula": "LiNiO2_3",
+      "density": 3.4,
+      "band_gap": 4.04,
+      "formation_energy_per_atom": -3.91,
+      "volume": 187.6
+    },
+    {
+      "material_id": "mp-10056",
+      "formula": "LiMnO2_3",
+      "density": 2.85,
+      "band_gap": 2.15,
+      "formation_energy_per_atom": -1.114,
+      "volume": 116.6
+    },
+    {
+      "material_id": "mp-10057",
+      "formula": "Li2MnO3_3",
+      "density": 4.16,
+      "band_gap": 0.5,
+      "formation_energy_per_atom": -3.458,
+      "volume": 63.3
+    },
+    {
+      "material_id": "mp-10058",
+      "formula": "LiNi0.8Co0.15Al0.05O2_3",
+      "density": 4.21,
+      "band_gap": 1.06,
+      "formation_energy_per_atom": -1.451,
+      "volume": 107.2
+    },
+    {
+      "material_id": "mp-10059",
+      "formula": "LiNi0.5Co0.2Mn0.3O2_3",
+      "density": 4.85,
+      "band_gap": 1.15,
+      "formation_energy_per_atom": -3.879,
+      "volume": 144.8
+    },
+    {
+      "material_id": "mp-10060",
+      "formula": "LiFePO4_3",
+      "density": 5.33,
+      "band_gap": 2.67,
+      "formation_energy_per_atom": -0.939,
+      "volume": 94.5
+    },
+    {
+      "material_id": "mp-10061",
+      "formula": "LiMnPO4_3",
+      "density": 3.31,
+      "band_gap": 2.07,
+      "formation_energy_per_atom": -2.89,
+      "volume": 114.1
+    },
+    {
+      "material_id": "mp-10062",
+      "formula": "LiCoPO4_3",
+      "density": 2.51,
+      "band_gap": 0.48,
+      "formation_energy_per_atom": -3.503,
+      "volume": 62.8
+    },
+    {
+      "material_id": "mp-10063",
+      "formula": "LiMn2O4_3",
+      "density": 2.9,
+      "band_gap": 3.95,
+      "formation_energy_per_atom": -1.424,
+      "volume": 51.7
+    },
+    {
+      "material_id": "mp-10064",
+      "formula": "LiNi0.5Mn1.5O4_3",
+      "density": 3.03,
+      "band_gap": 1.74,
+      "formation_energy_per_atom": 0.259,
+      "volume": 191.4
+    },
+    {
+      "material_id": "mp-10065",
+      "formula": "LiMnO2_3",
+      "density": 4.84,
+      "band_gap": 2.34,
+      "formation_energy_per_atom": -0.913,
+      "volume": 150.0
+    },
+    {
+      "material_id": "mp-10066",
+      "formula": "Li(NiMnCo)O2_3",
+      "density": 2.74,
+      "band_gap": 0.94,
+      "formation_energy_per_atom": -0.818,
+      "volume": 129.2
+    },
+    {
+      "material_id": "mp-10067",
+      "formula": "LiVO2_3",
+      "density": 2.95,
+      "band_gap": 2.56,
+      "formation_energy_per_atom": -1.851,
+      "volume": 175.2
+    },
+    {
+      "material_id": "mp-10068",
+      "formula": "LiTiO2_3",
+      "density": 4.79,
+      "band_gap": 3.19,
+      "formation_energy_per_atom": -1.044,
+      "volume": 108.5
+    },
+    {
+      "material_id": "mp-10069",
+      "formula": "LiNbO3_3",
+      "density": 3.14,
+      "band_gap": 4.28,
+      "formation_energy_per_atom": 0.029,
+      "volume": 159.6
+    },
+    {
+      "material_id": "mp-10070",
+      "formula": "LiNiPO4_3",
+      "density": 4.46,
+      "band_gap": 2.38,
+      "formation_energy_per_atom": -1.52,
+      "volume": 114.4
+    },
+    {
+      "material_id": "mp-10071",
+      "formula": "LiFeO2_3",
+      "density": 2.78,
+      "band_gap": 3.04,
+      "formation_energy_per_atom": -2.08,
+      "volume": 196.1
+    },
+    {
+      "material_id": "mp-10072",
+      "formula": "LiCoO2_4",
+      "density": 2.6,
+      "band_gap": 3.8,
+      "formation_energy_per_atom": -1.297,
+      "volume": 181.5
+    },
+    {
+      "material_id": "mp-10073",
+      "formula": "LiNiO2_4",
+      "density": 3.5,
+      "band_gap": 1.8,
+      "formation_energy_per_atom": -2.758,
+      "volume": 51.2
+    },
+    {
+      "material_id": "mp-10074",
+      "formula": "LiMnO2_4",
+      "density": 4.95,
+      "band_gap": 1.98,
+      "formation_energy_per_atom": -2.837,
+      "volume": 50.7
+    },
+    {
+      "material_id": "mp-10075",
+      "formula": "Li2MnO3_4",
+      "density": 4.69,
+      "band_gap": 2.94,
+      "formation_energy_per_atom": -2.99,
+      "volume": 128.7
+    },
+    {
+      "material_id": "mp-10076",
+      "formula": "LiNi0.8Co0.15Al0.05O2_4",
+      "density": 2.63,
+      "band_gap": 3.84,
+      "formation_energy_per_atom": -2.974,
+      "volume": 106.3
+    },
+    {
+      "material_id": "mp-10077",
+      "formula": "LiNi0.5Co0.2Mn0.3O2_4",
+      "density": 3.04,
+      "band_gap": 3.48,
+      "formation_energy_per_atom": -3.782,
+      "volume": 107.5
+    },
+    {
+      "material_id": "mp-10078",
+      "formula": "LiFePO4_4",
+      "density": 4.63,
+      "band_gap": 2.8,
+      "formation_energy_per_atom": -1.915,
+      "volume": 164.7
+    },
+    {
+      "material_id": "mp-10079",
+      "formula": "LiMnPO4_4",
+      "density": 5.31,
+      "band_gap": 4.38,
+      "formation_energy_per_atom": -0.574,
+      "volume": 162.5
+    }
+  ]
+}
